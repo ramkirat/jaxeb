@@ -4,7 +4,7 @@
 $(document).ready(function(){
 	FullBlockHeight(); // FullSectionHeight function call
 	$("#countdown").countdown({ // Counter timer
-		date: "05 March 2018 12:00:00", // Enter new date here
+		date: "12 March 2018 12:00:00", // Enter new date here
 		format: "on"
 	},
 	function() {
